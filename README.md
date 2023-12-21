@@ -1,4 +1,5 @@
 # Paddle-Ball
+The objective is to hit a white ball with the paddle, aiming for consecutive hits to achieve a high score.
 ## Controls
 * Left Arrow Key: Move the paddle to the left.
 * Right Arrow Key: Move the paddle to the right.
